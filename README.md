@@ -17,13 +17,14 @@ Project is created with:
 * Express
 * React -Redux
 	
-## Set Up Email User
-connect to gmail with this user details: 
-* Username - miriuser123@gmail.com
-* Password - MiriUser123!
+## Set Up DB
+create a local mongo database called "postManagerDB", with "postMessages" collection.
 
 ## SetUp
 To run this project, install it locally using npm:
 * api-> npm install
 * client-> npm instal
+
+![image](https://user-images.githubusercontent.com/85124420/121322742-e9ddf380-c917-11eb-84fe-fcc1b7a802b5.png)
+
 
