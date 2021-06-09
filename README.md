@@ -4,7 +4,7 @@ Simple online diary app created with Node.js,Express and MongoDB
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [SetUp Email User](#set-up-email-user)
+* [SetUp MongoDB](#set-up-db)
 * [SetUp](#setUP)
 	
  ## General info
